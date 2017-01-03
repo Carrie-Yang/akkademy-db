@@ -19,3 +19,5 @@ mappings in(Compile, packageBin) ~= {
     Seq("application.conf").contains(name)
   }
 }
+
+mainClass in(Compile, run) := Some("com.akkademy.Main")
