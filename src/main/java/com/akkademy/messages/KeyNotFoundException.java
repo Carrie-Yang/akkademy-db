@@ -1,4 +1,4 @@
-package com.akkademy.exception;
+package com.akkademy.messages;
 
 import java.io.Serializable;
 
